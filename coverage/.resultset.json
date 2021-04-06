@@ -1,0 +1,78 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/models/user.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/helpers/pets_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/helpers/users_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/models/pet.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          5,
+          null,
+          1,
+          6,
+          null,
+          6,
+          null,
+          2,
+          null,
+          2,
+          null,
+          2,
+          null,
+          null,
+          6,
+          null,
+          null,
+          1,
+          12,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1617744150
+  }
+}
