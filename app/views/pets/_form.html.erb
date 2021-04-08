@@ -18,7 +18,7 @@
 
   <div class="field">
     <%= form.label :pet_type %>
-    <%= form.number_field :pet_type %>
+    <%= form.select :pet_type, ['dog', 'cat', 'mouse'] %>
   </div>
 
   <div class="field">
@@ -27,13 +27,7 @@
   </div>
 
   <div class="field">
-    <%= form.label :user_id %>
-    <%= form.text_field :user_id %>
-  </div>
-
-  <div class="field">
-    <%= form.label :famous_reference %>
-    <%= form.text_field :famous_reference %>
+    <%= form.hidden_field :user_id, value: current_user.id %>
   </div>
 
   <div class="actions">
