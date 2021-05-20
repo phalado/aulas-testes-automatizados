@@ -17,6 +17,10 @@ RSpec.describe User, type: :model do
     end
   end
 
+  describe 'test associations' do
+    it { should have_many(:pets).dependent(:destroy) }
+  end
+
   describe 'Validations' do
     subject { User.new }
 
