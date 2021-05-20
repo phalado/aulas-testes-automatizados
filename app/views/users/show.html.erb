@@ -1,0 +1,40 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @user.email %>
+</p>
+
+<h3>Pets</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Pet type</th>
+      <th>Age</th>
+      <th>Famous reference</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @user.pets.each do |pet| %>
+      <tr>
+        <td><%= pet.name %></td>
+        <td><%= pet.pet_type %></td>
+        <td><%= pet.age %></td>
+        <td><%= pet.famous_reference %></td>
+        <td><%= link_to 'Show', pet %></td>
+        <td><%= link_to 'Edit', edit_pet_path(pet) %></td>
+        <td><%= link_to 'Destroy', pet, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Pet', new_pet_path %>
+
+<%= link_to 'Back', users_path %>

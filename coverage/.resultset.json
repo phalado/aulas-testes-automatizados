@@ -33,6 +33,111 @@
           null
         ]
       },
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/helpers/users_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/controllers/pets_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          4,
+          null,
+          4,
+          4,
+          3,
+          3,
+          null,
+          3,
+          3,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          2,
+          1,
+          null,
+          2,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          2,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          5,
+          null,
+          null,
+          null,
+          1,
+          6,
+          null,
+          null
+        ]
+      },
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/controllers/users_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/home/phalado/Projects/bycoders/Aulas testes automatizados/aulas-testes-automatizados/app/models/pet.rb": {
         "lines": [
           1,
@@ -46,27 +151,27 @@
           5,
           null,
           1,
-          6,
+          27,
           null,
-          6,
+          27,
           null,
-          2,
+          10,
           null,
-          2,
+          9,
           null,
-          2,
+          8,
           null,
           null,
-          6,
+          27,
           null,
           null,
           1,
-          12,
+          55,
           null,
           null
         ]
       }
     },
-    "timestamp": 1621518728
+    "timestamp": 1621530628
   }
 }
